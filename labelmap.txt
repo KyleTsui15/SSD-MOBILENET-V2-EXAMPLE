@@ -1,0 +1,5 @@
+Type in your object classes here, for example (Remove this line):
+
+Cat
+Dog
+Horse
