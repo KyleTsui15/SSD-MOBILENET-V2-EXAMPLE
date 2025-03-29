@@ -24,10 +24,14 @@ Download anaconda and ensure the proper folders are listed in environment variab
 Recommended to be run on VS Code with the "Jupyter" extension
 
 
-Dependencies (In anaconda prompt, VSCODE Terminal, or Command Prompt)
+### Dependencies (Run in anaconda prompt, VSCODE Terminal, or Command Prompt):
 
+```
 conda create -n [ENVNAME] python == 3.9
+```
+```
 conda activate [ENVNAME]
+```
 
 The following step should already be setup and it should be in the file
 --> Download the tensorflow models github repo [https://github.com/tensorflow/models]
