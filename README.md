@@ -1,13 +1,13 @@
 # SSD-MOBILENET-V2-EXAMPLE
 
-# GENERAL INFORMATION
+## GENERAL INFORMATION
 This is a SSD MOBILENET V2 network designed for object_detection. In this repo, there is an example
 model made to detect a pencil sharpener.
 
 *Check output.png for result from this example model*
 
 
-# HOW TO USE
+## HOW TO USE
 
 
 Download and Install labelimg
@@ -16,7 +16,7 @@ Drag and drop the image and xml files into images/training, validation, and test
 (MAKE SURE OUTPUT IS XML)
 
 
-# SETUP
+## SETUP
 
 
 Download anaconda and ensure the proper folders are listed in environment variables
